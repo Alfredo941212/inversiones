@@ -19,26 +19,48 @@
     >
 
     <style>
-        body {
-            background-color: #f4f7fb;
-        }
+    body {
+        background-color: #F5EBDD; /* Fondo crema */
+    }
 
-        .navbar-brand {
-            font-weight: 700;
-        }
+    .navbar {
+        background-color: #D9D9D9 !important; /* Gris suave */
+    }
 
-        .summary-card {
-            border: 0;
-            border-radius: 18px;
-            box-shadow: 0 5px 18px rgba(0, 0, 0, .08);
-        }
+    .navbar-brand {
+        font-weight: 700;
+        color: #5C4636 !important; /* Café elegante */
+    }
 
-        .content-card {
-            border: 0;
-            border-radius: 18px;
-            box-shadow: 0 5px 18px rgba(0, 0, 0, .06);
-        }
-    </style>
+    .summary-card {
+        border: 0;
+        border-radius: 18px;
+        background-color: #FFFFFF;
+        box-shadow: 0 5px 18px rgba(92, 70, 54, .12);
+    }
+
+    .content-card {
+        border: 0;
+        border-radius: 18px;
+        background-color: #E8D8C3; /* Beige */
+        box-shadow: 0 5px 18px rgba(92, 70, 54, .10);
+    }
+
+    .btn-primary {
+        background-color: #B08968;
+        border-color: #B08968;
+    }
+
+    .btn-primary:hover {
+        background-color: #8C6A4A;
+        border-color: #8C6A4A;
+    }
+
+    h1, h2, h3, h4, h5 {
+        color: #5C4636;
+    }
+
+</style>
 </head>
 
 <body>
