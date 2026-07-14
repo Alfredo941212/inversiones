@@ -25,10 +25,10 @@
                 <table class="table align-middle">
                     <thead>
                     <tr>
-                        <th>Nombre</th>
-                        <th>Descripción</th>
+                        <th>Nombrees</th>
+                        <th>Descripciones</th>
                         <th>Activos relacionados</th>
-                        <th>Estado</th>
+                        <th>Estados</th>
                         <th>Acciones</th>
                     </tr>
                     </thead>
