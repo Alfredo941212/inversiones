@@ -7,7 +7,7 @@
         <div>
             <h1>Activos financieros</h1>
             <p class="text-muted">
-                Administración de activos disponibles.
+                Consulta y mantenimiento de activos financieros.
             </p>
         </div>
 
